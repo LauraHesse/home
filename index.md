@@ -1,34 +1,51 @@
-# Udacity Front-End Web Developer Nanodegree course
+# Thoughts and Notes
+## Udacity Front-End Web Developer Nanodegree
+---
 
 ## August 16
+---
 
 Welcome to my Git repository. This is a platform where I write my thoughts, notes and experience of taking an online course - Udacity Front-End Web Developer Nanodegree.
 
-Here you'll find notes, demo, repo from the taken projects.
+Here you'll find notes, demo, repo.
+
+---
 
 ### Project 1: Mockup to Website
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
+---
+
 ### Project 2: Interactive Resume
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+
+---
 
 ### Project 3: Classic Arcade Game Clone
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
+---
+
 ### Project 4: Website Optimization
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+
+---
 
 ### Project 5: Neighborhood Map
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
+---
+
 ### Project 6: Javascript Testing
 
 [Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+
+---
 
 ## Conclusions - August 17
 
