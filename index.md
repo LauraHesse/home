@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Udacity Front-End Web Developer Nanodegree course - thoughts and notes
+
+## August 16 - Jun 17
 
 You can use the [editor on GitHub](https://github.com/LauraHesse/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
