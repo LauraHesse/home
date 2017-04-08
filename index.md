@@ -1,16 +1,13 @@
 # Thoughts and Notes
 ### Udacity Front-End Web Developer Nanodegree
 ---
-
-## August 16
-
 Welcome to my Git repository. This is a platform where I write my thoughts, notes and experience of taking an online course - Udacity Front-End Web Developer Nanodegree.
 
 Here you'll find notes, demo, repo.
 
 ### Project 1: Mockup to Website
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p4-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 2: Interactive Resume
@@ -25,7 +22,7 @@ Here you'll find notes, demo, repo.
 ---
 ### Project 4: Website Optimization
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p4-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 5: Neighborhood Map
