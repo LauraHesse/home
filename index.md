@@ -7,17 +7,17 @@ Here you'll find notes, demo, repo.
 
 ### Project 1: Mockup to Website
 
-[Notes](https://laurahesse.github.io/p4-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p1-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 2: Interactive Resume
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p2-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 3: Classic Arcade Game Clone
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p3-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 4: Website Optimization
@@ -27,12 +27,12 @@ Here you'll find notes, demo, repo.
 ---
 ### Project 5: Neighborhood Map
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p5-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 6: Javascript Testing
 
-[Notes](https://guides.github.com/features/mastering-markdown/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p6-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ## Conclusions - August 17
