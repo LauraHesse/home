@@ -7,27 +7,35 @@ Here you'll find notes, demo, repo.
 
 ### Project 1: Mockup to Website
 
-[Notes](https://laurahesse.github.io/p1-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p1-notes/) |
+[Demo](https://laurahesse.github.io/p1-website/) |
+[Repo](https://github.com/LauraHesse/p1-website)
 
 ---
 ### Project 2: Interactive Resume
 
-[Notes](https://laurahesse.github.io/p2-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p2-notes/) |
+[Demo](https://laurahesse.github.io/portfolio/) |
+[Repo](https://github.com/LauraHesse/portfolio)
 
 ---
 ### Project 3: Classic Arcade Game Clone
 
-[Notes](https://laurahesse.github.io/p3-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p3-notes/) |
+[Demo](https://laurahesse.github.io/arcade-game) |
+[Repo](https://github.com/LauraHesse/arcade-game)
 
 ---
 ### Project 4: Website Optimization
 
-[Notes](https://laurahesse.github.io/p4-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p4-notes/) |
+[Demo](https://laurahesse.github.io/website-optimization) | [Repo](https://github.com/LauraHesse/website-optimization)
 
 ---
 ### Project 5: Neighborhood Map
 
-[Notes](https://laurahesse.github.io/p5-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p5-notes/) |
+[Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 6: Javascript Testing
