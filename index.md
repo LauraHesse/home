@@ -8,7 +8,7 @@ Here you'll find notes, demo, repo.
 ### Project 1: Mockup to Website
 
 [Notes](https://laurahesse.github.io/p1-notes/) |
-[Example](https://storage.googleapis.com/supplemental_media/udacityu/2655898586/design-mockup-portfolio.pdf/) |
+[Example](https://github.com/LauraHesse/p1-website/blob/master/design-mockup-portfolio.pdf) |
 [Demo](https://laurahesse.github.io/p1-website/) |
 [Repo](https://github.com/LauraHesse/p1-website)
 
