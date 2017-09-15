@@ -5,7 +5,7 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 
 [Front-End Web Developer Nanodegree Certificate](https://github.com/LauraHesse/home/blob/master/LUHE_nanodegree.pdf "Front-End Web Developer Nanodegree Certificate")
 
-![alt text][LUHE_nanodegree.pdf]
+![alt text][LUHE_nanodegree.jpg]
 
 ### Project 1: Mockup to Website
 
