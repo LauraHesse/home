@@ -36,8 +36,8 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 ### Project 5: Neighborhood Map
 
 [Notes](https://laurahesse.github.io/p5-notes/) |
-[Demo](https://guides.github.com/features/mastering-markdown/) | 
-[Repo](https://guides.github.com/features/mastering-markdown/)
+[Demo](https://laurahesse.github.io/p5-website) | 
+[Repo](https://github.com/LauraHesse/p5-website)
 
 ---
 ### Project 6: Javascript Testing
