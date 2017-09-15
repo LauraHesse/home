@@ -43,5 +43,5 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 ### Project 6: Javascript Testing
 
 [Notes](https://laurahesse.github.io/p6-notes/) | 
-[Demo](https://guides.github.com/features/mastering-markdown/) | 
-[Repo](https://guides.github.com/features/mastering-markdown/)
+[Demo](https://laurahesse.github.io/p6-website) | 
+[Repo](https://github.com/p6-website)
