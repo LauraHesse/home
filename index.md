@@ -29,18 +29,22 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 ### Project 4: Website Optimization
 
 [Notes](https://laurahesse.github.io/p4-notes/) |
-[Demo](https://laurahesse.github.io/website-optimization) | [Repo](https://github.com/LauraHesse/website-optimization)
+[Demo](https://laurahesse.github.io/website-optimization) | 
+[Repo](https://github.com/LauraHesse/website-optimization)
 
 ---
 ### Project 5: Neighborhood Map
 
 [Notes](https://laurahesse.github.io/p5-notes/) |
-[Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Demo](https://guides.github.com/features/mastering-markdown/) | 
+[Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ### Project 6: Javascript Testing
 
-[Notes](https://laurahesse.github.io/p6-notes/) | [Demo](https://guides.github.com/features/mastering-markdown/) | [Repo](https://guides.github.com/features/mastering-markdown/)
+[Notes](https://laurahesse.github.io/p6-notes/) | 
+[Demo](https://guides.github.com/features/mastering-markdown/) | 
+[Repo](https://guides.github.com/features/mastering-markdown/)
 
 ---
 ## Conclusions - August 17
