@@ -28,6 +28,10 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 ---
 ### Project 4: Website Optimization
 
+[Notes](https://laurahesse.github.io/p3-notes/) |
+[Demo](https://laurahesse.github.io/arcade-game) |
+[Repo](https://github.com/LauraHesse/arcade-game)
+
 [Notes](https://laurahesse.github.io/p4-notes/) |
 [Demo](https://laurahesse.github.io/website-optimization) | 
 [Repo](https://github.com/LauraHesse/website-optimization)
