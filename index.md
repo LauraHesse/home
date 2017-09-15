@@ -3,7 +3,6 @@
 ---
 Welcome to my Git repository. This is a platform where I write my thoughts, notes and experience of taking an online course - Udacity Front-End Web Developer Nanodegree.
 
-Here you'll find notes, demo, repo.
 
 ### Project 1: Mockup to Website
 
