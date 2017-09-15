@@ -7,6 +7,14 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 
 ![alt text][LUHE_nanodegree.jpg]
 
+Inline-style: 
+![alt text](https://raw.githubusercontent.com/LauraHesse/home/master/LUHE_nanodegree.jpg)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/LauraHesse/home/master/LUHE_nanodegree.jpg
+
 ### Project 1: Mockup to Website
 
 [Notes](https://laurahesse.github.io/p1-notes/) |
