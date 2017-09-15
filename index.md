@@ -3,7 +3,7 @@
 ---
 Welcome to my Git repository. This is a platform where I write my thoughts, notes and experience of taking an online course - Udacity Front-End Web Developer Nanodegree.
 
-[Front-End Web Developer Nanodegree Certificate](https://github.com/LauraHesse/home/blob/master/LUHE_nanodegree.pdf "Front-End Web Developer Nanodegree Certificate")
+[Front-End Web Developer Nanodegree Certificate](https://github.com/LauraHesse/home/blob/master/LUHE_nanodegree.jpg "Front-End Web Developer Nanodegree Certificate")
 
 ![alt text][LUHE_nanodegree.jpg]
 
