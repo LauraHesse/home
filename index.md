@@ -5,7 +5,7 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 
 ![alt text](https://raw.githubusercontent.com/LauraHesse/home/master/LUHE_nanodegree.jpg)
 
-### Project 1: Mockup to Website
+### Project 1: Web Foundations
 
 [Notes](https://laurahesse.github.io/p1-notes/) |
 [Example](https://github.com/LauraHesse/p1-website/blob/master/design-mockup-portfolio.pdf) |
@@ -13,28 +13,28 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 [Repo](https://github.com/LauraHesse/p1-website)
 
 ---
-### Project 2: Interactive Resume
+### Project 2: Responsive Websites
 
 [Notes](https://laurahesse.github.io/p2-notes/) |
 [Demo](https://laurahesse.github.io/portfolio/) |
 [Repo](https://github.com/LauraHesse/portfolio)
 
 ---
-### Project 3: Classic Arcade Game Clone
+### Project 3: Javascript Foundatioins - Classic Arcade Game Clone
 
 [Notes](https://laurahesse.github.io/p3-notes/) |
 [Demo](https://laurahesse.github.io/arcade-game) |
 [Repo](https://github.com/LauraHesse/arcade-game)
 
 ---
-### Project 4: Website Optimization
+### Project 4: Intermediate Javascript - Website Optimization
 
 [Notes](https://laurahesse.github.io/p4-notes/) |
 [Demo](https://laurahesse.github.io/website-optimization) |
 [Repo](https://github.com/LauraHesse/website-optimization)
 
 ---
-### Project 5: Neighborhood Map
+### Project 5: Advanced Interactive Websites - Neighborhood Map
 
 [Notes](https://laurahesse.github.io/p5-notes/) |
 [Demo](https://laurahesse.github.io/p5-website) | 
