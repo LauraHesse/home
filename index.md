@@ -40,9 +40,3 @@ Welcome to my Git repository. This is a platform where I write my thoughts, note
 [Demo](https://laurahesse.github.io/p5-website) | 
 [Repo](https://github.com/LauraHesse/p5-website)
 
----
-### Project 6: Javascript Testing
-
-[Notes](https://laurahesse.github.io/p6-notes/) | 
-[Demo](https://laurahesse.github.io/p6-website) | 
-[Repo](https://github.com/p6-website)
